@@ -13,7 +13,7 @@ Skills: Dart/Flutter
 
 👯 I’m looking to collaborate on Flutter, Dart
 
-🤝 I’m looking for help with PHP, Java , C , C++ , JavaScript , dart
+🤝 I’m looking for help with PHP, Java , C , C++ , DSA , JavaScript , dart
 
 💬 Ask me about flutter, dart
 
